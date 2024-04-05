@@ -1,2 +1,4 @@
-# bioinformatics_group
-第一次fork 尝试
+# bioinformatics_group 任务汇总
+# 4月5日-4月12日
+1、继续理解吃透twas处理数据的代码
+2、找一篇高质量的非深度学习的上下调关系的论文并理解代码
